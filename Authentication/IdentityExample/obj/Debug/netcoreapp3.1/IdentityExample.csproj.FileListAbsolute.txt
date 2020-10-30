@@ -33,7 +33,6 @@ C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authenti
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
-C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.deps.json
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.json
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\bin\Debug\netcoreapp3.1\IdentityExample.runtimeconfig.dev.json
@@ -127,3 +126,5 @@ C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authenti
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.Views.pdb
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.dll
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\IdentityExample.pdb
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\EmailVerification.cshtml.g.cs
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\IdentityExample\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerifyEmail.cshtml.g.cs
