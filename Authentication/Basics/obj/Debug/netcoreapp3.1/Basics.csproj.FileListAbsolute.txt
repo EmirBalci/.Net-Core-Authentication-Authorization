@@ -100,3 +100,4 @@ C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authenti
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.RazorTargetAssemblyInfo.cs
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Basics\obj\Debug\netcoreapp3.1\Basics.Views.pdb
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Basics\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
