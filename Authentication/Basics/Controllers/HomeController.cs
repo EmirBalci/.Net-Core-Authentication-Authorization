@@ -62,6 +62,7 @@ namespace Basics.Controllers
                 new Claim(ClaimTypes.Name, "Bob"),
                 new Claim(ClaimTypes.Email, "Bob@fmail.com"),
                 new Claim(ClaimTypes.DateOfBirth, "21/11/1996"),
+                new Claim(ClaimTypes.Role, "Admin"),
                 new Claim(ClaimTypes.Role, "AdminTwo"),
                 new Claim(DynamicPilicies.SecurityLevel, "7"),
                 new Claim("Grandma.Says", "Very nice boi."),
