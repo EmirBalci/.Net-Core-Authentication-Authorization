@@ -100,3 +100,10 @@ C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authenti
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\obj\Debug\netcoreapp3.1\Server.RazorTargetAssemblyInfo.cs
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\obj\Debug\netcoreapp3.1\Server.Views.pdb
 C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\obj\Debug\netcoreapp3.1\Razor\Views\Home\Secret.cshtml.g.cs
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\emir.balci\source\repos\.Net-Core-Authentication-Authorization\Authentication\Server\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
